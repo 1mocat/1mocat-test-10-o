@@ -1,2 +1,5 @@
-# 1mocat-test-10-o
-Test repository 10
+# Workspace overview
+
+This directory contains a single task. Complete it so its tests pass; it is self-contained and uses only files under its own folder.
+
+- `write/` — write compressor.
